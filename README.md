@@ -7,6 +7,7 @@
 - [Adrian Żubiński](https://github.com/azubinski270200/Adrian_-ubi-ski.git)
 - [Krzysztof Suszek](https://github.com/ksuszek402/jezyki_programowania_25)
 - [Mariusz Zastawski](https://github.com/zastawskiMariusz/mariusz-Zastawski)
+- [Marcel Wiński](https://github.com/MarcelWinski/J-zyki-Programowania.git)
 - [Patryk Szumski](https://github.com/PSzumski04/Laby)
 - [Andrzej Walewski](https://github.com/Awalewski01/LabUG)
 - [Tomasz Zwara](https://github.com/t0musss/repozytoriumUG)
