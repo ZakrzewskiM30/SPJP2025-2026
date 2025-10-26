@@ -12,4 +12,5 @@
 - [Patryk Szumski](https://github.com/PSzumski04/Laby)
 - [Andrzej Walewski](https://github.com/Awalewski01/LabUG)
 - [Tomasz Zwara](https://github.com/t0musss/repozytoriumUG)
+- [Oliwier Stefanowski](https://github.com/OliwierStefanowski/jezyki_programowania-)
 - [Mateusz Szczepański](https://github.com/SzczepanskiMateusz/JezykiProgramowania)
