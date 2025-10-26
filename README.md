@@ -10,3 +10,4 @@
 - [Patryk Szumski](https://github.com/PSzumski04/Laby)
 - [Andrzej Walewski](https://github.com/Awalewski01/LabUG)
 - [Tomasz Zwara](https://github.com/t0musss/repozytoriumUG)
+- [Aneta Stala] (https://github.com/AnetaStala6/Jezyki-programowania.git)
