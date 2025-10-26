@@ -12,3 +12,6 @@
 - [Andrzej Walewski](https://github.com/Awalewski01/LabUG)
 - [Tomasz Zwara](https://github.com/t0musss/repozytoriumUG)
 - [Marcel Szymanek](https://github.com/marc4112/marcel-szym)
+- [Mateusz Skrzek](https://github.com/SkrzekMateusz/JezykiProgramowania2025-2026.git)
+- [Oliwier Stefanowski](https://github.com/OliwierStefanowski/jezyki_programowania-)
+- [Mateusz Szczepański](https://github.com/SzczepanskiMateusz/JezykiProgramowania)
